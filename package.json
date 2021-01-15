@@ -1,0 +1,24 @@
+{
+  "name": "note-architect",
+  "version": "0.0.1",
+  "description": "架构师知识笔记",
+  "author": "mrcode <99299684@qq.com>",
+  "private": false,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "vuepress-plugin-baidu-tongji-analytics": "^1.0.1",
+    "vuepress-plugin-code-copy": "^1.0.4",
+    "vuepress-plugin-tags": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "1.8.0",
+    "@vuepress/plugin-medium-zoom": "1.8.0",
+    "@vuepress/plugin-pwa": "1.8.0",
+    "vuepress": "1.8.0",
+    "vuepress-plugin-baidu-autopush": "^1.0.1"
+  }
+}
