@@ -3,9 +3,9 @@ name: CI
 # 控制如何触发事件，这里针对 master 分支
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 # 一个工作流运行是由一个或多个作业组成的，这些作业可以连续或并行运行。
 jobs:
