@@ -6694,9 +6694,9 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress-plugin-tags@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-tags/-/vuepress-plugin-tags-1.0.0.tgz#e55104bb7772a5817540696ec617617c74155a30"
+vuepress-plugin-tags@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-tags/-/vuepress-plugin-tags-1.0.2.tgz#7dcc1175f995482d167554c580a7984264a8b8f9"
 
 vuepress@1.8.0:
   version "1.8.0"
