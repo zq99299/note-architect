@@ -10,6 +10,10 @@ module.exports = {
   title: 'MRCODE-架构师笔记',
   description: '用来记录架构师相关成套的知识',
   base: '/note-architect/', // gh-page 中是增加了项目名
+  head:[
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'manifest', href: '/manifest.json' }],
+  ],
   markdown: {
     lineNumbers: true
   },
