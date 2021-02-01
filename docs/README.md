@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: MLOGO200x200.png
 actionText: 高并发系统设计 40 问 →
 actionLink: /hc/
 features:
@@ -9,5 +10,5 @@ features:
   details: 学习过程中记录笔记，防止忘记。
 - title: 知识库
   details: 积少成多，串联知识，方便翻阅
-footer: MIT Licensed | Copyright © 2021 mrcode
+footer: MIT Licensed | Copyright © mrcode.cn
 ---
