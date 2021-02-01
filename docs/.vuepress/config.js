@@ -7,7 +7,7 @@ module.exports = {
   port: 8080,
 
   // ~ 站点配置
-  title: 'MRCODE-架构师笔记',
+  title: 'JAVA 架构师笔记',
   description: '用来记录架构师相关成套的知识',
   base: '/note-architect/', // gh-page 中是增加了项目名
   head:[

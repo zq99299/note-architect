@@ -1,7 +1,7 @@
 {
   "name": "note-architect",
   "version": "0.0.1",
-  "description": "架构师知识笔记",
+  "description": "JAVA 架构师知识笔记",
   "author": "mrcode <99299684@qq.com>",
   "private": false,
   "scripts": {
