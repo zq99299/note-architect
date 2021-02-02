@@ -1,25 +1,25 @@
 {
-  "name": "NOTE-BOOK2",
-  "short_name": "MRCODE",
+  "name": "NOTE-ARCHITECT",
+  "short_name": "NOTE-ARCHITECT",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "description": "零散短小的笔记项目，MRCODE 笔记本",
+  "description": "笔记定位：架构师相关课程",
   "icons": [
     {
-      "src": "MLOGO100x100.png",
+      "src": "mlogo.svg",
       "sizes": "48x48",
-      "type": "image/png"
+      "type": "image/svg+xml"
     },
     {
-      "src": "MLOGO100x100.png",
+      "src": "mlogo.svg",
       "sizes": "100x100",
-      "type": "image/png"
+      "type": "image/svg+xml"
     },
     {
-      "src": "MLOGO200x200.png",
+      "src": "mlogo.svg",
       "sizes": "200x200",
-      "type": "image/png"
+      "type": "image/svg+xml"
     }
   ]
 }

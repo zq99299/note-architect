@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: MLOGO200x200.png
+heroImage: mlogo.svg
 actionText: 高并发系统设计 40 问 →
 actionLink: /hc/
 features:
