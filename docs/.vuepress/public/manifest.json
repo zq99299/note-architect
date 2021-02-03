@@ -1,5 +1,5 @@
 {
-  "name": "NOTE-ARCHITECT",
+  "name": "JAVA 架构师笔记",
   "short_name": "NOTE-ARCHITECT",
   "start_url": ".",
   "display": "standalone",
@@ -8,18 +8,9 @@
   "icons": [
     {
       "src": "mlogo.svg",
-      "sizes": "48x48",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "mlogo.svg",
-      "sizes": "100x100",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "mlogo.svg",
-      "sizes": "200x200",
-      "type": "image/svg+xml"
+      "sizes": "48x48 72x72 96x96 128x128 256x256",
+      "type": "image/svg+xml",
+      "purpose": "any"
     }
   ]
 }
