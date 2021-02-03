@@ -4,6 +4,7 @@
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
+  "theme_color":"#000",
   "description": "笔记定位：架构师相关课程",
   "icons": [
     {
