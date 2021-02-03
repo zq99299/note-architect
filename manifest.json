@@ -1,10 +1,9 @@
 {
   "name": "JAVA 架构师笔记",
-  "short_name": "NOTE-ARCHITECT",
+  "short_name": "JAVA 架构师笔记",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color":"#000",
   "description": "笔记定位：架构师相关课程",
   "icons": [
     {
