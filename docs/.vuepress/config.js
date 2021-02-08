@@ -1,4 +1,5 @@
 const hcSc = require('../hc')
+const ztcSc = require('../ztc')
 
 module.exports = {
   // ~ 开发配置
@@ -10,7 +11,7 @@ module.exports = {
   title: 'JAVA 架构师笔记',
   description: '用来记录架构师相关成套的知识',
   base: '/note-architect/', // gh-page 中是增加了项目名
-  head:[
+  head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
   ],
@@ -39,16 +40,18 @@ module.exports = {
     editLinks: true,
     // 默认为 "Edit this page"
     editLinkText: '帮助我们改善此页面！',
-    logo: 'mlogo.svg',
+    logo: '/mlogo.svg',
     // 主题级别的配置
     serviceWorker: {
       updatePopup: true
     },
     nav: [
-      { text: '高并发系统设计 40 问', link: '/hc/' }
+      { text: '高并发系统设计 40 问', link: '/hc/' },
+      { text: 'JAVA 架构师直通车', link: '/ztc/' }
     ],
     sidebar: {
-      '/hc/': hcSc()
+      '/hc/': hcSc(),
+      '/ztc/': ztcSc(),
     }
   },
   plugins: [
