@@ -1,6 +1,15 @@
 module.exports = () => {
   return [
     '',
+    {
+      title: '开篇',
+      collapsable: true,
+      children: [
+        '00/',
+        '00/01.md',
+        '00/02.md'
+      ]
+    },
     '01/',
     '02/',
     '03/',
