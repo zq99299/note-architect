@@ -143,6 +143,6 @@ Java 架构师体系课，演进路线为：单体 > 集群 > 分布式 > 微服
 
 - 阶段一：[练习项目仓库](https://github.com/zq99299/foodie-dev/)
 
-  包含了后端、前端、mybatis tk 生成器项目
+  包含了后端、前端、mybatis tk 生成器、聚合支付中心项目
 
   
