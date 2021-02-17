@@ -42,7 +42,7 @@ module.exports = () => {
       ]
     },
     {
-      title: '2 | 分类、推荐、搜索、评价、购物车开发',
+      title: '02 | 分类、推荐、搜索、评价、购物车开发',
       collapsable: true,
       children: [
         '02/',
