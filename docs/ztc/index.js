@@ -3,15 +3,15 @@ module.exports = () => {
     '',
     {
       title: '开篇',
+      path: '/ztc/00/',
       collapsable: true,
       children: [
-        '00/',
         '00/01.md',
         '00/02.md'
       ]
-    },
-    {
+    }, {
       title: '01 | 万丈高楼，地基首要',
+      path: '/ztc/01/',
       collapsable: true,
       children: [
         '01/',
@@ -40,9 +40,9 @@ module.exports = () => {
         '01/23.md',
         '01/24.md'
       ]
-    },
-    {
+    }, {
       title: '02 | 分类、推荐、搜索、评价、购物车开发',
+      path: '/ztc/02/',
       collapsable: true,
       children: [
         '02/',
@@ -54,43 +54,57 @@ module.exports = () => {
         '02/06.md',
         '02/07.md'
       ]
-    },
-    {
+    }, {
       title: '03 | 地址、订单、支付、定时任务开发',
+      path: '/ztc/03/',
       collapsable: true,
       children: [
-        '03/',
         '03/01.md',
         '03/02.md',
         '03/03.md',
         '03/04.md',
         '03/05.md'
       ]
-    },
-    {
+    }, {
       title: '04 | 用户中心 、订单、评价管理开发',
+      path: '/ztc/04/',
       collapsable: true,
       children: [
-        '04/',
         '04/01.md',
         '04/02.md',
         '04/03.md',
         '04/04.md',
         '04/05.md'
       ]
-    },    {
+    }, {
       title: '05 | 云服务器部署上线',
+      path: '/ztc/05/',
       collapsable: true,
       children: [
-        '05/',
         '05/01.md',
         '05/02.md',
         '05/03.md',
         '05/04.md',
         '05/05.md'
       ]
+    }, {
+      title: '06 | LVS + Nginx 实现高可用集群',
+      path: '/ztc/06/',
+      collapsable: true,
+      children: [
+        '06/01.md',
+        '06/02.md',
+        '06/03.md',
+        '06/04.md',
+        '06/05.md',
+        '06/06.md',
+        '06/07.md',
+        '06/08.md',
+        '06/09.md',
+        '06/10.md',
+        '06/11.md'
+      ]
     },
-    '06/',
     '07/',
     '08/',
     '09/',
