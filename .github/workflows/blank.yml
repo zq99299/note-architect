@@ -33,7 +33,8 @@ jobs:
           ${{ runner.os }}-yarn-
 
     - name: yarn run docs:build
-      run: yarn install && yarn run docs:build
+      # npx browserslist@latest --update-db 解决依赖browserslist 数据过期报错
+      run: yarn install && npx browserslist@latest --update-db  && yarn run docs:build
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
